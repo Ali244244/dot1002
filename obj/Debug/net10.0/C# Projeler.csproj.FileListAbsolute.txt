@@ -1,0 +1,14 @@
+C:\Users\alioz\C# Projeler\obj\Debug\net10.0\C# Projeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alioz\C# Projeler\obj\Debug\net10.0\C# Projeler.AssemblyInfoInputs.cache
+C:\Users\alioz\C# Projeler\obj\Debug\net10.0\C# Projeler.AssemblyInfo.cs
+C:\Users\alioz\C# Projeler\obj\Debug\net10.0\C# Projeler.csproj.CoreCompileInputs.cache
+C:\Users\alioz\C# Projeler\bin\Debug\net10.0\C# Projeler.exe
+C:\Users\alioz\C# Projeler\bin\Debug\net10.0\C# Projeler.deps.json
+C:\Users\alioz\C# Projeler\bin\Debug\net10.0\C# Projeler.runtimeconfig.json
+C:\Users\alioz\C# Projeler\bin\Debug\net10.0\C# Projeler.dll
+C:\Users\alioz\C# Projeler\bin\Debug\net10.0\C# Projeler.pdb
+C:\Users\alioz\C# Projeler\obj\Debug\net10.0\C# Projeler.dll
+C:\Users\alioz\C# Projeler\obj\Debug\net10.0\refint\C# Projeler.dll
+C:\Users\alioz\C# Projeler\obj\Debug\net10.0\C# Projeler.pdb
+C:\Users\alioz\C# Projeler\obj\Debug\net10.0\C# Projeler.genruntimeconfig.cache
+C:\Users\alioz\C# Projeler\obj\Debug\net10.0\ref\C# Projeler.dll
